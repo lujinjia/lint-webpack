@@ -1,0 +1,16 @@
+{
+  "name": "jslint-webpack",
+  "version": "1.0.0",
+  "description": "jslint in webpack",
+  "main": "index.js",
+  "dependencies": {
+    "eslint-loader": "^1.7.1",
+    "webpack": "^2.6.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "author": "Jim Loo",
+  "license": "ISC"
+}
